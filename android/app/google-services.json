@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536900238654",
+    "project_id": "kampus-rehberi",
+    "storage_bucket": "kampus-rehberi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536900238654:android:42c2f3c21c0c8e6351006f",
+        "android_client_info": {
+          "package_name": "com.osman.kampus_rehberi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqvER7FhTgtZxadCSq32bcDparViPHBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
