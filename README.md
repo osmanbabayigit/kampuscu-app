@@ -6,21 +6,21 @@
 
 KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakülteler, kafeler, yemekhaneler, ATM'ler vb.) kolayca bulabilmesi, yol tarifi alabilmesi ve deneyimlerini diğer öğrencilerle paylaşabilmesi için geliştirilmiş **konum tabanlı** bir mobil uygulamadır.
 
-## 🎯 Hangi Sorunu Çözüyor?
+##  Hangi Sorunu Çözüyor?
 Özellikle yeni kazanan öğrenciler ve ziyaretçiler için devasa üniversite kampüslerinde yön bulmak karmaşık olabilir. KampüsCÜ;
 * Kampüs içindeki tüm önemli noktaları tek bir haritada birleştirir.
 * Mekanların güncel açık/kapalı durumlarını gösterir.
 * Öğrencilerin mekanlara puan verip yorum yapmasına olanak tanıyarak kampüs içi sosyal bir etkileşim ağı kurar.
 
-## ✨ Temel Özellikler
+##  Temel Özellikler
 
-* **🔐 Kimlik Doğrulama:** Firebase Auth ile güvenli Kayıt Ol / Giriş Yap işlemleri.
-* **🗺️ Dinamik Kampüs Haritası:** Google Maps API entegrasyonu ile özelleştirilmiş kategori bazlı harita pinleri (Kafe, Yemek, Fakülte, ATM).
-* **📍 Detay ve Yol Tarifi:** Mekanların çalışma saatlerini görme ve tek tıkla Google Haritalar üzerinden yol tarifi alma.
-* **⭐ Değerlendirme Sistemi:** Öğrencilerin deneyimlerini paylaşabilmesi için interaktif puanlama (1-5 yıldız) ve yorum yapma özelliği.
-* **👤 Profil Yönetimi:** Kullanıcı bilgilerini güncelleme ve özel avatarlar arasından seçim yapabilme.
+* ** Kimlik Doğrulama:** Firebase Auth ile güvenli Kayıt Ol / Giriş Yap işlemleri.
+* ** Dinamik Kampüs Haritası:** Google Maps API entegrasyonu ile özelleştirilmiş kategori bazlı harita pinleri (Kafe, Yemek, Fakülte, ATM).
+* ** Detay ve Yol Tarifi:** Mekanların çalışma saatlerini görme ve tek tıkla Google Haritalar üzerinden yol tarifi alma.
+* ** Değerlendirme Sistemi:** Öğrencilerin deneyimlerini paylaşabilmesi için interaktif puanlama (1-5 yıldız) ve yorum yapma özelliği.
+* ** Profil Yönetimi:** Kullanıcı bilgilerini güncelleme ve özel avatarlar arasından seçim yapabilme.
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 | Harita Görünümü | Ana Sayfa | Mekan Detayı & Yol Tarifi |
 | :---: | :---: | :---: |
@@ -32,7 +32,7 @@ KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakültel
 
 > *Not: Ekran görüntülerini görüntüleyebilmek için resimleri projenizdeki `assets/` klasörüne eklediğinizden emin olun.*
 
-## 🛠️ Kullanılan Teknolojiler ve Mimariler
+##  Kullanılan Teknolojiler ve Mimariler
 
 * **Geliştirme Ortamı:** Flutter & Dart
 * **Backend & Veritabanı:** Firebase (Authentication, Cloud Firestore)
@@ -40,7 +40,7 @@ KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakültel
 * **Durum Yönetimi (State Management):** Provider
 * **Mimari:** Temiz kod prensipleri ve modüler yapı.
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
