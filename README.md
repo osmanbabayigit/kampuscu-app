@@ -37,7 +37,7 @@ KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakültel
 * **Geliştirme Ortamı:** Flutter & Dart
 * **Backend & Veritabanı:** Firebase (Authentication, Cloud Firestore)
 * **Harita Servisi:** Google Maps API (Custom Markers & Geolocation)
-* **Durum Yönetimi (State Management):** (Buraya projede kullandıysan Provider, Riverpod veya GetX yazabilirsin, kullanmadıysan bu satırı silebilirsin)
+* **Durum Yönetimi (State Management):** Provider
 * **Mimari:** Temiz kod prensipleri ve modüler yapı.
 
 ## 🚀 Kurulum ve Çalıştırma
