@@ -14,11 +14,11 @@ KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakültel
 
 ##  Temel Özellikler
 
-* **  Kimlik Doğrulama:** Firebase Auth ile güvenli Kayıt Ol / Giriş Yap işlemleri.
-* **  Dinamik Kampüs Haritası:** Google Maps API entegrasyonu ile özelleştirilmiş kategori bazlı harita pinleri (Kafe, Yemek, Fakülte, ATM).
-* **  Detay ve Yol Tarifi:** Mekanların çalışma saatlerini görme ve tek tıkla Google Haritalar üzerinden yol tarifi alma.
-* **  Değerlendirme Sistemi:** Öğrencilerin deneyimlerini paylaşabilmesi için interaktif puanlama (1-5 yıldız) ve yorum yapma özelliği.
-* **  Profil Yönetimi:** Kullanıcı bilgilerini güncelleme ve özel avatarlar arasından seçim yapabilme.
+* **Kimlik Doğrulama:** Firebase Auth ile güvenli Kayıt Ol / Giriş Yap işlemleri.
+* **Dinamik Kampüs Haritası:** Google Maps API entegrasyonu ile özelleştirilmiş kategori bazlı harita pinleri (Kafe, Yemek, Fakülte, ATM).
+* **Detay ve Yol Tarifi:** Mekanların çalışma saatlerini görme ve tek tıkla Google Haritalar üzerinden yol tarifi alma.
+* **Değerlendirme Sistemi:** Öğrencilerin deneyimlerini paylaşabilmesi için interaktif puanlama (1-5 yıldız) ve yorum yapma özelliği.
+* **Profil Yönetimi:** Kullanıcı bilgilerini güncelleme ve özel avatarlar arasından seçim yapabilme.
 
 ##  Ekran Görüntüleri
 
@@ -28,7 +28,7 @@ KampüsCÜ, üniversite öğrencilerinin kampüs içindeki mekanları (fakültel
 
 | Puan & Yorum Yapma | Profil ve Avatar Seçimi | Giriş Yap |
 | :---: | :---: | :---: |
-| <img src="assets/images/PuanveYorumKismiEtkilesimi.png" width="250"> | <img src="assets/images/ProfilSayasiveAvatarEtkilesimi.png" width="250"> | <img src="assets/images/GirişYapSayfasi.png" width="250"> |
+| <img src="assets/images/PuanveYorumKismiEtkilesimi.png" width="250"> | <img src="assets/images/ProfilSayasiveAvatarEtkilesimi.png" width="250"> | <img src="assets/images/GirisYapSayfasi.png" width="250"> |
 
 ##  Kullanılan Teknolojiler ve Mimariler
 
