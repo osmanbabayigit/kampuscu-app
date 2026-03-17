@@ -44,4 +44,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 **1. Projeyi Klonlayın:**
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/kampuscu.git](https://github.com/KULLANICI_ADIN/kampuscu.git)
+git clone git clone https://github.com/osmanbabayigit/kampuscu-app.git](https://github.com/KULLANICI_ADIN/kampuscu.git)
